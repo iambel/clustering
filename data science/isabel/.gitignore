@@ -1,0 +1,19 @@
+# .gitignore file
+
+# arquivo de anotações
+notes.txt
+
+# configurações do vscode
+.vscode/
+
+# files temporários python
+*.log
+__pycache__/
+*.py[cod]
+
+# jupyter checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# datasets formats (excel, ...)
+*.csv
