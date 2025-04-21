@@ -9,6 +9,10 @@
 
 Este projeto propõe a segmentação de clientes da plataforma **WEBGEX** com base em seus comportamentos de compra, utilizando técnicas de **clusterização não supervisionada**. A iniciativa foi realizada em parceria com a **UNIGEX Soluções Integradas de Gestão Ltda**.
 
+## 🗃️ Quadro Trello
+
+https://trello.com/b/WBPj85DE/equipe-9218unigex
+
 ## 🎯 Objetivo
 
 > Identificar **grupos de clientes com padrões semelhantes de consumo** para apoiar estratégias de marketing mais eficazes e personalizadas.
