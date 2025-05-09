@@ -1,0 +1,32 @@
+# Relatório de Verificação de Integridade Dos Dados
+
+### ✅ Tabelas Analisadas:
+- Categorias
+- Clientes
+- Produtos
+- Unidades
+- Vendas
+- Vendedores
+
+### ✅ Tabelas que não apresentam irregularidades:
+- Categorias
+- Unidades
+- Vendedores
+
+### 📌Tabelas que apresentam valores ausentes e nulos
+- Clientes (12 colunas vazias e 7 colunas com Null presente)
+- Vendas (4 colunas vazias e 2 colunas com Null presente)
+
+### 📌Tabelas que apresentam valor inconsistente
+- Produtos (alguns valores da coluna *'preco_venda'* estão zerados)
+
+### 📌Tabelas que apresentam valor duplicado
+- Clientes (alguns valores das colunas C e D se repetem)
+
+## 🔄 Ações Recomendadas por Tabela
+
+📌 **Clientes**: Verificar a criticidade dos dados ausentes e eliminar ou consolidar registros duplicados.
+
+📌 **Vendas**: Verificar quais colunas estão com dados ausentes, avaliar impacto na análise e preencher com dados corretos (se possível) ou remover linhas incompletas.
+
+📌 **Produtos**: Validar se algum produto realmente tem preço zero, corrigir se o preço for conhecido e/ou adicionar validação para impedir que valores iguais ou menores que zero sejam inseridos nessa coluna no futuro.
