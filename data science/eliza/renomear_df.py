@@ -1,7 +1,8 @@
 import pandas as pd
 from joblib import load, dump
 
-df_clientes = load('../../util/df_clientes.z')
+# Corrigido o caminho para o arquivo
+df_clientes = load('../../util/data/df_clientes.z')
 
 # Renomear colunas
 df_clientes.rename(columns={
@@ -13,7 +14,7 @@ df_clientes.rename(columns={
     'tidfisc2': 'id_fiscal_2',
     'tidfisc3': 'id_fiscal_3',
     'cicms': 'contribuinte_icms'
-    }, inplace=True)
+}, inplace=True)
 
 # Salvar novamente
-dump(df_clientes, '../../util/df_clientes.z')
+dump(df_clientes, '../../util/data/df_clientes.z')
