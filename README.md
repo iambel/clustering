@@ -73,4 +73,4 @@ Projeto desenvolvido com apoio da **UNIGEX Soluções Integradas de Gestão Ltda
 
 ## 📬 Contato
 
-Fique à vontade para abrir uma _issue_ ou entrar em contato. 🤝
+Fique à vontade para abrir uma _issue_ ou entrar em contato. 🤝🎉
