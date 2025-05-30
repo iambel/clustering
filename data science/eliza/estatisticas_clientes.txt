@@ -1,0 +1,20 @@
+Relatório estatístico - CLIENTES
+
+Variável: codigo
+  Média: 6786.61
+  Mediana: 7997.50
+  Moda: [   1    2    4 ... 9728 9729 9730]
+  Desvio Padrão: 2827.49
+  Variância: 7994708.48
+  Amplitude: 9729.00
+  Interpretação: Distribuição assimétrica.
+
+Variável: vendedor
+  Média: 67.13
+  Mediana: 82.00
+  Moda: [88]
+  Desvio Padrão: 30.30
+  Variância: 917.96
+  Amplitude: 94.00
+  Interpretação: Distribuição moderadamente assimétrica.
+

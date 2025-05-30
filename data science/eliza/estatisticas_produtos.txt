@@ -1,0 +1,38 @@
+Relatório estatístico - PRODUTOS
+
+Variável: codigo_categoria
+  Média: 81.10
+  Mediana: 8.00
+  Moda: [2.]
+  Desvio Padrão: 130.79
+  Variância: 17106.06
+  Amplitude: 366.00
+  Interpretação: Alta variabilidade. Distribuição assimétrica.
+
+Variável: preco_venda
+  Média: 304.01
+  Mediana: 65.54
+  Moda: [0.]
+  Desvio Padrão: 1367.00
+  Variância: 1868677.37
+  Amplitude: 51283.64
+  Interpretação: Alta variabilidade. Distribuição assimétrica.
+
+Variável: preco_venda_minmax
+  Média: 0.01
+  Mediana: 0.00
+  Moda: [0.]
+  Desvio Padrão: 0.03
+  Variância: 0.00
+  Amplitude: 1.00
+  Interpretação: Alta variabilidade. Distribuição assimétrica.
+
+Variável: preco_venda_std
+  Média: 0.00
+  Mediana: -0.17
+  Moda: [-0.22240664]
+  Desvio Padrão: 1.00
+  Variância: 1.00
+  Amplitude: 37.52
+  Interpretação: Alta variabilidade. Distribuição assimétrica.
+

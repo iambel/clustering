@@ -1,0 +1,29 @@
+Relatório estatístico - UNIDADES
+
+Variável: codigo_unidade
+  Média: 10002.00
+  Mediana: 10002.00
+  Moda: [10001 10002 10003]
+  Desvio Padrão: 1.00
+  Variância: 1.00
+  Amplitude: 2.00
+  Interpretação: Distribuição aproximadamente simétrica.
+
+Variável: nome_fantasia_cod
+  Média: 1.00
+  Mediana: 1.00
+  Moda: [0 1 2]
+  Desvio Padrão: 1.00
+  Variância: 1.00
+  Amplitude: 2.00
+  Interpretação: Alta variabilidade. Distribuição aproximadamente simétrica.
+
+Variável: status_cod
+  Média: 1.00
+  Mediana: 1.00
+  Moda: [1]
+  Desvio Padrão: 0.00
+  Variância: 0.00
+  Amplitude: 0.00
+  Interpretação: Distribuição aproximadamente simétrica.
+

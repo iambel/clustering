@@ -1,0 +1,29 @@
+Relatório estatístico - VENDEDORES
+
+Variável: codigo
+  Média: 62.46
+  Mediana: 58.00
+  Moda: [  9  11  32  51  54  56  58  79  88  89  90  94 101]
+  Desvio Padrão: 31.05
+  Variância: 963.94
+  Amplitude: 92.00
+  Interpretação: Distribuição moderadamente assimétrica.
+
+Variável: nome_completo_cod
+  Média: 6.00
+  Mediana: 6.00
+  Moda: [ 0  1  2  3  4  5  6  7  8  9 10 11 12]
+  Desvio Padrão: 3.89
+  Variância: 15.17
+  Amplitude: 12.00
+  Interpretação: Alta variabilidade. Distribuição aproximadamente simétrica.
+
+Variável: nome_reduzido_cod
+  Média: 6.00
+  Mediana: 6.00
+  Moda: [ 0  1  2  3  4  5  6  7  8  9 10 11 12]
+  Desvio Padrão: 3.89
+  Variância: 15.17
+  Amplitude: 12.00
+  Interpretação: Alta variabilidade. Distribuição aproximadamente simétrica.
+

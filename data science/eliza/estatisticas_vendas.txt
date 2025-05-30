@@ -1,0 +1,164 @@
+Relatório estatístico - VENDAS
+
+Variável: codigo_empresa
+  Média: 1.58
+  Mediana: 2.00
+  Moda: [1]
+  Desvio Padrão: 0.63
+  Variância: 0.40
+  Amplitude: 2.00
+  Interpretação: Distribuição moderadamente assimétrica.
+
+Variável: centro_resultado
+  Média: 4.14
+  Mediana: 2.00
+  Moda: [2]
+  Desvio Padrão: 2.88
+  Variância: 8.31
+  Amplitude: 12.00
+  Interpretação: Alta variabilidade. Distribuição assimétrica.
+
+Variável: documento
+  Média: 22114.46
+  Mediana: 22135.00
+  Moda: [20401]
+  Desvio Padrão: 1425.95
+  Variância: 2033331.86
+  Amplitude: 6373.00
+  Interpretação: Distribuição aproximadamente simétrica.
+
+Variável: codigo_cliente
+  Média: 5790.05
+  Mediana: 6863.00
+  Moda: [6863]
+  Desvio Padrão: 2558.59
+  Variância: 6546403.20
+  Amplitude: 9706.00
+  Interpretação: Distribuição moderadamente assimétrica.
+
+Variável: codigo_empregado
+  Média: 63.67
+  Mediana: 63.00
+  Moda: [83]
+  Desvio Padrão: 25.18
+  Variância: 634.15
+  Amplitude: 84.00
+  Interpretação: Distribuição assimétrica.
+
+Variável: codigo_produto
+  Média: 75490.94
+  Mediana: 7657.00
+  Moda: [130]
+  Desvio Padrão: 90340.33
+  Variância: 8161375799.06
+  Amplitude: 196139.00
+  Interpretação: Alta variabilidade. Distribuição aproximadamente simétrica.
+
+Variável: quantidade
+  Média: 5.46
+  Mediana: 2.00
+  Moda: [1.]
+  Desvio Padrão: 19.76
+  Variância: 390.29
+  Amplitude: 659.00
+  Interpretação: Alta variabilidade. Distribuição assimétrica.
+
+Variável: quantidade_minmax
+  Média: 0.10
+  Mediana: 0.09
+  Moda: [0.09104704]
+  Desvio Padrão: 0.03
+  Variância: 0.00
+  Amplitude: 1.00
+  Interpretação: Distribuição assimétrica.
+
+Variável: quantidade_zscore
+  Média: 0.00
+  Mediana: -0.18
+  Moda: [-0.22594114]
+  Desvio Padrão: 1.00
+  Variância: 1.00
+  Amplitude: 33.36
+  Interpretação: Alta variabilidade. Distribuição assimétrica.
+
+Variável: total
+  Média: 206.32
+  Mediana: 79.79
+  Moda: [20.]
+  Desvio Padrão: 513.62
+  Variância: 263808.25
+  Amplitude: 17315.00
+  Interpretação: Alta variabilidade. Distribuição assimétrica.
+
+Variável: total_minmax
+  Média: 0.15
+  Mediana: 0.14
+  Moda: [0.14062951]
+  Desvio Padrão: 0.03
+  Variância: 0.00
+  Amplitude: 1.00
+  Interpretação: Distribuição assimétrica.
+
+Variável: total_zscore
+  Média: 0.00
+  Mediana: -0.25
+  Moda: [-0.36277987]
+  Desvio Padrão: 1.00
+  Variância: 1.00
+  Amplitude: 33.71
+  Interpretação: Alta variabilidade. Distribuição assimétrica.
+
+Variável: custo_medio
+  Média: 50.68
+  Mediana: 12.83
+  Moda: [7.4497]
+  Desvio Padrão: 195.04
+  Variância: 38041.40
+  Amplitude: 5979.38
+  Interpretação: Alta variabilidade. Distribuição assimétrica.
+
+Variável: custo_medio_minmax
+  Média: 0.14
+  Mediana: 0.14
+  Moda: [0.13769817]
+  Desvio Padrão: 0.03
+  Variância: 0.00
+  Amplitude: 1.00
+  Interpretação: Distribuição assimétrica.
+
+Variável: custo_medio_zscore
+  Média: 0.00
+  Mediana: -0.19
+  Moda: [-0.22166806]
+  Desvio Padrão: 1.00
+  Variância: 1.00
+  Amplitude: 30.66
+  Interpretação: Alta variabilidade. Distribuição assimétrica.
+
+Variável: valor_desconto
+  Média: 67.75
+  Mediana: 15.68
+  Moda: [0.]
+  Desvio Padrão: 226.18
+  Variância: 51156.82
+  Amplitude: 5262.00
+  Interpretação: Alta variabilidade. Distribuição assimétrica.
+
+Variável: valor_desconto_minmax
+  Média: 0.01
+  Mediana: 0.00
+  Moda: [0.]
+  Desvio Padrão: 0.04
+  Variância: 0.00
+  Amplitude: 1.00
+  Interpretação: Alta variabilidade. Distribuição assimétrica.
+
+Variável: valor_desconto_zscore
+  Média: 0.00
+  Mediana: -0.23
+  Moda: [-0.29954324]
+  Desvio Padrão: 1.00
+  Variância: 1.00
+  Amplitude: 23.27
+  Interpretação: Alta variabilidade. Distribuição assimétrica.
+
