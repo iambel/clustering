@@ -1,8 +1,8 @@
 # ignore
 
 # data stuff
-/util/data/
-/util/image/
+util/data/
+util/image/
 
 # empty folders
 /data science/luciano/
