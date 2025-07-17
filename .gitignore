@@ -1,0 +1,26 @@
+# ignore
+
+# data stuff
+/util/data/
+/util/image/
+
+# empty folders
+/data science/luciano/
+/data science/leticia/
+
+# temporary files
+*.ipynb_checkpoints
+*.DS_Store
+__pycache__/
+*.py[cod]
+*.log
+
+# system files (win/mac)
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# enviroment
+.venv/
+env/
+venv/
